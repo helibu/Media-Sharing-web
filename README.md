@@ -75,7 +75,7 @@ Users can register to the web and log in through a server host on google cloud.
 
 ### Create a image post or video post
 Users can upload image and video posts to the server.
-<img src="http://g.recordit.co/huvShF7FRo.gif" />
+<img src="https://github.com/helibu/Media-Sharing-web/blob/master/gif/huvShF7FRo.gif" />
  
 ### Posts on the map
 Google map api is used to display the posts by location on the map.
