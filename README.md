@@ -73,7 +73,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ![register_feature](https://thumbs.gfycat.com/ThornyWindyHamadryad-size_restricted.gif)
 
 ### Create a image post or video post
-![post_feature](https://thumbs.gfycat.com/CreativeVeneratedChimneyswift-size_restricted.gif)
+![post_feature](http://g.recordit.co/2ab4MRWxY4.gif)
 
 ### Posts on the map
 ![](https://thumbs.gfycat.com/SoftWellmadeIndusriverdolphin-size_restricted.gif) 
