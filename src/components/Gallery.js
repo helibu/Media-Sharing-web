@@ -16,6 +16,7 @@ export class Gallery extends Component {
         ).isRequired
     }
 
+
     render() {
         const images = this.props.images.map((image) => {
             return {
