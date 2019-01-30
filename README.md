@@ -71,7 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Register and login
 Users can register to the web and log in through a server host on google cloud.
-![register_feature](http://g.recordit.co/v1Eey0Xply.gif)
+![register_feature](https://github.com/helibu/Media-Sharing-web/blob/master/gif/687474703a2f2f672e7265636f726469742e636f2f76314565793058706c792e676966.gif)
 
 ### Create a image post or video post
 Users can upload image and video posts to the server.
