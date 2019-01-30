@@ -76,4 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ![post_feature](https://thumbs.gfycat.com/SkeletalImpressionableGalapagoshawk-size_restricted.gif)
 
 ### Posts on the map
-![map_feature](https://thumbs.gfycat.com/GlamorousDistantHorsefly-size_restricted.gif)
+![map_feature](https://thumbs.gfycat.com/GlamorousDistantHorsefly-size_restricted.gif) 
