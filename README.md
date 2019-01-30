@@ -70,7 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Features of this project
 
 ### Register and login
-![register_feature](https://thumbs.gfycat.com/ThornyWindyHamadryad-size_restricted.gif)
+![register_feature](http://g.recordit.co/v1Eey0Xply.gif)
 
 ### Create a image post or video post
 ![post_feature](http://g.recordit.co/2ab4MRWxY4.gif)
