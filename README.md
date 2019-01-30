@@ -73,7 +73,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ![register_feature](http://g.recordit.co/v1Eey0Xply.gif)
 
 ### Create a image post or video post
-![post_feature](http://g.recordit.co/TOOzj2SN1n.gif)
+![post_feature](http://g.recordit.co/huvShF7FRo.gif)
  
 ### Posts on the map
 ![](https://thumbs.gfycat.com/SoftWellmadeIndusriverdolphin-size_restricted.gif) 
