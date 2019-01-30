@@ -77,3 +77,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Posts on the map
 ![map_feature](https://thumbs.gfycat.com/GlamorousDistantHorsefly-size_restricted.gif) 
+
+<iframe src='https://gfycat.com/ifr/GlamorousDistantHorsefly' frameborder='0' scrolling='no' allowfullscreen width='640' height='371'></iframe>
