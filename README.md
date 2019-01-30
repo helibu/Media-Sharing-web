@@ -79,5 +79,5 @@ Users can upload image and video posts to the server.
  
 ### Posts on the map
 Google map api is used to display the posts by location on the map.
-![](https://thumbs.gfycat.com/SoftWellmadeIndusriverdolphin-size_restricted.gif) 
+![](https://thumbs.gfycat.com/SoftWellmadeIndusriverdolphin-size_restricted.gif | width=300) 
 
