@@ -1,11 +1,12 @@
 import React from 'react';
 import $ from 'jquery';
-import { Tabs, Spin, Row, Col } from 'antd';
+import { Tabs, Spin, Row, Col, Radio } from 'antd';
 import { GEO_OPTIONS, POS_KEY, API_ROOT, TOKEN_KEY, AUTH_PREFIX } from '../constants';
 import { Gallery } from './Gallery';
 import { CreatePostButton } from './CreatePostButton';
 import { WrappedAroundMap } from './AroundMap';
 
+const RadioGroup = Radio.Group;
 
 export class Home extends React.Component {
     state = {
@@ -131,6 +132,10 @@ export class Home extends React.Component {
         const operations = <CreatePostButton loadNearbyPost={this.loadNearbyPost}/>;
         return (
             <div>
+                <RadioGroup className="topic-radio-group" value={this.state.topic} onChange={this.onTopicChange}>
+                    <Radio value="around">Posts Around Here</Radio>
+                    <Radio value="face">Faces Around The World</Radio>
+                </RadioGroup>
 
                 <Tabs tabBarExtraContent={operations} className="main-tabs">
                     <TabPane tab="Image Posts" key="1">
