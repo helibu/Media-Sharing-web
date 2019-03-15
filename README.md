@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Features of this project
-### Backend implemented with Golang [Backend](https://github.com/helibu/Golang-web)
+### Backend implemented with Golang ([Backend](https://github.com/helibu/Golang-web))
 The backend of this web is coded with Golang and deployed on Google Cloud Engine.
 
 ### Register and login
